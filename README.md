@@ -10,7 +10,7 @@ URL: [https://saas-app-007.uc.r.appspot.com)
 
 ![Screen Shot Example](images/appRunning1.png)
 
-![Screen Shot Example](images/appRunning2.png)
+![Screen Shot Example](images/appRunning2_latest.png)
 
 
 ## Explanation
